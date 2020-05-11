@@ -1,0 +1,21 @@
+
+Adam@DESKTOP-LJANERI MINGW64 ~
+$ cd desktop/as123
+
+Adam@DESKTOP-LJANERI MINGW64 ~/desktop/as123
+$ git init
+Initialized empty Git repository in C:/Users/Adam/Desktop/as123/.git/
+
+Adam@DESKTOP-LJANERI MINGW64 ~/desktop/as123 (master)
+$ git remote add as123 https://github.com/adamjestem/rozne.git
+
+Adam@DESKTOP-LJANERI MINGW64 ~/desktop/as123 (master)
+$ git remote -v
+as123   https://github.com/adamjestem/rozne.git (fetch)
+as123   https://github.com/adamjestem/rozne.git (push)
+
+Adam@DESKTOP-LJANERI MINGW64 ~/desktop/as123 (master)
+$ git checkout -b as123
+Switched to a new branch 'as123'
+
+Adam@DESKTOP-LJANERI MINGW64 ~/desktop/as123 (as123)
